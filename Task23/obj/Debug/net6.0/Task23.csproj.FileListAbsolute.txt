@@ -1,0 +1,15 @@
+/Users/kristinaalmazova/Documents/Programming2/Task23/obj/Debug/net6.0/Task23.csproj.AssemblyReference.cache
+/Users/kristinaalmazova/Documents/Programming2/Task23/obj/Debug/net6.0/Task23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristinaalmazova/Documents/Programming2/Task23/obj/Debug/net6.0/Task23.AssemblyInfoInputs.cache
+/Users/kristinaalmazova/Documents/Programming2/Task23/obj/Debug/net6.0/Task23.AssemblyInfo.cs
+/Users/kristinaalmazova/Documents/Programming2/Task23/obj/Debug/net6.0/Task23.csproj.CoreCompileInputs.cache
+/Users/kristinaalmazova/Documents/Programming2/Task23/bin/Debug/net6.0/Task23
+/Users/kristinaalmazova/Documents/Programming2/Task23/bin/Debug/net6.0/Task23.deps.json
+/Users/kristinaalmazova/Documents/Programming2/Task23/bin/Debug/net6.0/Task23.runtimeconfig.json
+/Users/kristinaalmazova/Documents/Programming2/Task23/bin/Debug/net6.0/Task23.dll
+/Users/kristinaalmazova/Documents/Programming2/Task23/bin/Debug/net6.0/Task23.pdb
+/Users/kristinaalmazova/Documents/Programming2/Task23/obj/Debug/net6.0/Task23.dll
+/Users/kristinaalmazova/Documents/Programming2/Task23/obj/Debug/net6.0/refint/Task23.dll
+/Users/kristinaalmazova/Documents/Programming2/Task23/obj/Debug/net6.0/Task23.pdb
+/Users/kristinaalmazova/Documents/Programming2/Task23/obj/Debug/net6.0/Task23.genruntimeconfig.cache
+/Users/kristinaalmazova/Documents/Programming2/Task23/obj/Debug/net6.0/ref/Task23.dll
